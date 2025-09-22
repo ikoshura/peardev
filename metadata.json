@@ -1,0 +1,5 @@
+{
+  "name": "Aptitude Test Practice",
+  "description": "A web application to practice for aptitude tests, featuring various question categories like logical reasoning, numerical analysis, and coding problems. It includes a learn mode with instant feedback and a timed exam simulation mode.",
+  "requestFramePermissions": []
+}
